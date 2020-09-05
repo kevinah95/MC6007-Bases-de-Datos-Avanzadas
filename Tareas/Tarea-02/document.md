@@ -13,6 +13,8 @@ a. The matrix-vector multiplication algorithm of Section 2.3.2.
 b. The union algorithm of Section 2.3.6.
 c. The aggregation algorithm of Section 2.3.8.
 
+\hfill \textbf{Solución 2.5.1}
+
 
 **Exercise 3.4.1**: Evaluate the S-curve $1 - (1 - s^r)^b$ for $s = 0.1, 0.2,  \ldots , 0.9$, for the following values of $r$ and $b$:
 
@@ -20,7 +22,7 @@ c. The aggregation algorithm of Section 2.3.8.
 - $r=6$ and $b=20$.
 - $r=5$ and $b=50$.
 
-**Respuesta 3.4.1**:
+\hfill \textbf{Solución 3.4.1}
 
 - Para $r=3$ y $b=10$
 
